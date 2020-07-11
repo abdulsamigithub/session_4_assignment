@@ -9,7 +9,7 @@ export default function App(){
   return(
     <div className = {`box ${isMorning ? 'dayLight' : '' } `}>
       
-      <h1>Hola {isMorning ? 'Buenos Dias' : 'Buenas Noches'}</h1>
+      <h1>Hola {isMorning ? 'Buenos Dias' : 'Buenas Noches senora'}</h1>
       <Message counter = {count} />
      
       <button onClick={()=>setcount(++count)}>Increment </button>
