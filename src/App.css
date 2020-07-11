@@ -1,0 +1,25 @@
+/*
+.box{
+  height: 500px;
+  background-color: blue;
+}
+
+.dayling{
+
+  background-color: chartreuse;
+
+} 
+
+*/
+.box {
+  height: 1000px;
+  background-color: teal;
+}
+.dayLight {
+  background-color: yellow;
+}
+h1 {
+  color: white;
+  text-align: center;
+  stroke-opacity: initial;
+}
